@@ -16,7 +16,7 @@ Hands-on engineering leader and full-stack builder who still ships production co
 #### Previously
 
 - **[StreamLabs](https://streamlabswater.com/)** — smart-home water monitoring serving hundreds of thousands of connected devices; now sold at Home Depot, Lowe's, Best Buy, and Amazon
-- **BRCK** — rugged, self-powered connectivity hardware and cloud software for low-infrastructure environments
+- **[BRCK](https://www.kickstarter.com/projects/1776324009/brck-your-backup-generator-for-the-internet)** — rugged, self-powered connectivity hardware and cloud software for low-infrastructure environments
 - **[Ushahidi](https://www.ushahidi.com/)** — co-founder and Director of Technology. Open-source crisis mapping used in 100+ countries, translated into 30+ languages, reaching 20M+ people, for clients including the United Nations
 
 ---
