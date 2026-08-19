@@ -15,7 +15,7 @@ Hands-on engineering leader and full-stack builder who still ships production co
 
 #### Previously
 
-- **StreamLabs** (Reliance Worldwide) — smart-home water monitoring serving hundreds of thousands of connected devices; now sold at Home Depot, Lowe's, Best Buy, and Amazon
+- **[StreamLabs](https://streamlabswater.com/)** — smart-home water monitoring serving hundreds of thousands of connected devices; now sold at Home Depot, Lowe's, Best Buy, and Amazon
 - **BRCK** — rugged, self-powered connectivity hardware and cloud software for low-infrastructure environments
 - **[Ushahidi](https://www.ushahidi.com/)** — co-founder and Director of Technology. Open-source crisis mapping used in 100+ countries, translated into 30+ languages, reaching 20M+ people, for clients including the United Nations
 
