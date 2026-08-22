@@ -32,7 +32,7 @@ Most of what I build lives in private and company repositories — the public re
 `RAG` · `vector search & embeddings` · `agentic workflows` · `LLM evaluation` · `prompt & context engineering` · `LLMOps`
 `Python` · `Ruby` · `TypeScript` · `Go` · `Swift` · `Kotlin` · `Dart`
 `Rails` · `Django` · `Node` · `React` · `Next.js` · `event-driven systems`
-`Postgres` · `DynamoDB` · `Redis` · `vector DBs` · `Elasticsearch`
+`Postgres` · `DynamoDB` · `Redis` · `vector DBs` · `Elasticsearch` · `Text-To-Speech` · `Speech-To-Text`
 `AWS` · `Azure` · `GCP` · `IaC` · `CI/CD` · `containers` · `observability`
 `SOC 2` · `threat modeling` · `encryption` · `secure data architecture`
 
